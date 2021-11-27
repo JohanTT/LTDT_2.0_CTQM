@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\LTDT-2.0\LTDT-2.0\bin\Debug\LTDT-2.0.exe.config
+C:\Users\ADMIN\source\repos\LTDT-2.0\LTDT-2.0\bin\Debug\LTDT-2.0.exe
+C:\Users\ADMIN\source\repos\LTDT-2.0\LTDT-2.0\bin\Debug\LTDT-2.0.pdb
+C:\Users\ADMIN\source\repos\LTDT-2.0\LTDT-2.0\obj\Debug\LTDT-2.0.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\LTDT-2.0\LTDT-2.0\obj\Debug\LTDT-2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\LTDT-2.0\LTDT-2.0\obj\Debug\LTDT_2._0.MainForm.resources
+C:\Users\ADMIN\source\repos\LTDT-2.0\LTDT-2.0\obj\Debug\LTDT_2._0.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\LTDT-2.0\LTDT-2.0\obj\Debug\LTDT-2.0.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\LTDT-2.0\LTDT-2.0\obj\Debug\LTDT-2.0.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\LTDT-2.0\LTDT-2.0\obj\Debug\LTDT-2.0.exe
+C:\Users\ADMIN\source\repos\LTDT-2.0\LTDT-2.0\obj\Debug\LTDT-2.0.pdb
+C:\Users\ADMIN\source\repos\LTDT-2.0\LTDT-2.0\obj\Debug\LTDT_2._0.TrongSoForm.resources
